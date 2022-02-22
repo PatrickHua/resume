@@ -1,2 +1,3 @@
 outputs/*
 !outputs/main.pdf
+.DS_Store
